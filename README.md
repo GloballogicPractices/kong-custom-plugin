@@ -23,7 +23,7 @@ kong has plugins oriented architecture. All of these Kong plugins give you the p
 
 ![image](https://user-images.githubusercontent.com/26079118/32907814-66d82e20-cb27-11e7-8800-feebccf60c8f.png)
 
-In some cases when existing pluging does not solve your problem than you have to write custom plugin.
+In some cases when existing plugin does not solve your problem than you have to write custom plugin.
 Check available plugins detail at https://konghq.com/plugins/ 
 
 * Installation
