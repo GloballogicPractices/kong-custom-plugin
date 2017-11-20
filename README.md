@@ -31,7 +31,7 @@ Check available plugins detail at https://konghq.com/plugins/
     * docker exec -it kong-container-id bash
   
   * Download code 
-    * git clone https://github.com/VaibhavG10/kong-custom-plugin.git
+    * git clone https://github.com/GloballogicPractices/kong-custom-plugin.git
   
   * Set Environment Variables
     * export KONG_CUSTOM_PLUGINS="kong-custom-plugin"
